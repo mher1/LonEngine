@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Sandbox/Sandbox.vcxproj" Id="d1756f87-7bae-48b9-8e8d-efc88993c940" />
+  <Project Path="LonEngine/LonEngine.vcxproj" Id="bb11a973-eb0f-41d3-b973-d2f7c34a549c" />
+</Solution>

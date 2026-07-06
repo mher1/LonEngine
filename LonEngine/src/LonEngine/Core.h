@@ -8,3 +8,7 @@
 #else
     #error LonEngine Only Support Windows!
 #endif
+
+#define BIT(x) (1 << x)
+
+#define FMT_HEADER_ONLY

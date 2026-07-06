@@ -1,0 +1,3 @@
+[submodule "LonEngine/vendor/spdlog"]
+	path = LonEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
